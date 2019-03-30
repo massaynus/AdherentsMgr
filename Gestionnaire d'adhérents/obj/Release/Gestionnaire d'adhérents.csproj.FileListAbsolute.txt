@@ -1,0 +1,13 @@
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\bin\Release\Gestionnaire d'adhérents.exe.config
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\bin\Release\Gestionnaire d'adhérents.exe
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\bin\Release\Gestionnaire d'adhérents.pdb
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Release\Gestionnaire_d_adhérents.Del.resources
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Release\Gestionnaire_d_adhérents.Form1.resources
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Release\Gestionnaire_d_adhérents.Form2.resources
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Release\Gestionnaire_d_adhérents.List.resources
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Release\Gestionnaire_d_adhérents.Manager.resources
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Release\Gestionnaire_d_adhérents.Properties.Resources.resources
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Release\Gestionnaire d'adhérents.csproj.GenerateResource.cache
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Release\Gestionnaire d'adhérents.csproj.CoreCompileInputs.cache
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Release\Gestionnaire d'adhérents.exe
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Release\Gestionnaire d'adhérents.pdb

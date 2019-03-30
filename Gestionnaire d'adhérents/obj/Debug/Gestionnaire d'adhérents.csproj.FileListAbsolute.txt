@@ -1,0 +1,14 @@
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\bin\Debug\Gestionnaire d'adhérents.exe.config
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\bin\Debug\Gestionnaire d'adhérents.exe
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\bin\Debug\Gestionnaire d'adhérents.pdb
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Debug\Gestionnaire d'adhérents.csprojAssemblyReference.cache
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Debug\Gestionnaire_d_adhérents.Form1.resources
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Debug\Gestionnaire_d_adhérents.Properties.Resources.resources
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Debug\Gestionnaire d'adhérents.csproj.GenerateResource.cache
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Debug\Gestionnaire d'adhérents.csproj.CoreCompileInputs.cache
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Debug\Gestionnaire d'adhérents.exe
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Debug\Gestionnaire d'adhérents.pdb
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Debug\Gestionnaire_d_adhérents.Form2.resources
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Debug\Gestionnaire_d_adhérents.List.resources
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Debug\Gestionnaire_d_adhérents.Manager.resources
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\Gestionnaire D'équipe\Gestionnaire d'adhérents\obj\Debug\Gestionnaire_d_adhérents.Del.resources
